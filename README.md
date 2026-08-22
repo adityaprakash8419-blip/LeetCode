@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
