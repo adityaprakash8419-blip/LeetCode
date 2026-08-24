@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1927-sum-game](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Game Theory
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
