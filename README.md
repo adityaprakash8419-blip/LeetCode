@@ -55,6 +55,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1927-sum-game](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
