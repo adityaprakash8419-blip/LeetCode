@@ -145,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
