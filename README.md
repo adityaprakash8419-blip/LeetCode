@@ -20,6 +20,7 @@
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -149,4 +152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
