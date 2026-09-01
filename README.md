@@ -15,6 +15,7 @@
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -25,6 +26,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -93,6 +96,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Simulation
@@ -107,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
