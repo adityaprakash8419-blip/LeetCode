@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -148,6 +149,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
