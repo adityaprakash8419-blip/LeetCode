@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
