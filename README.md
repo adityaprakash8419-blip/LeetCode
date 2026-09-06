@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1927-sum-game](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
