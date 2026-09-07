@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -55,6 +56,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -169,6 +171,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
