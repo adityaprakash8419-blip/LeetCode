@@ -60,6 +60,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -77,6 +78,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -181,6 +183,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
