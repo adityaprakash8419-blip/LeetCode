@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0835-image-overlap](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -69,6 +70,7 @@
 | [0219-contains-duplicate-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
