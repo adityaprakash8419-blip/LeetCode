@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0415-add-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0836-rectangle-overlap](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -264,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
