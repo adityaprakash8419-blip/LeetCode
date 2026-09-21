@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -53,6 +54,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
