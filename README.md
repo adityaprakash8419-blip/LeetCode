@@ -40,6 +40,7 @@
 | [0905-sort-array-by-parity](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -98,6 +99,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -207,6 +209,7 @@
 | [0905-sort-array-by-parity](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -231,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Manacher
@@ -318,8 +322,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
