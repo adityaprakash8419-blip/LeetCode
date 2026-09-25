@@ -99,6 +99,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -130,6 +131,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -209,6 +211,7 @@
 | [0905-sort-array-by-parity](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -245,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +279,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -328,4 +333,8 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [1122-relative-sort-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
