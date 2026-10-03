@@ -128,6 +128,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -158,6 +159,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -263,6 +265,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -352,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
