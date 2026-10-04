@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -164,6 +165,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -217,6 +219,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
