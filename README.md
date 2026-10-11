@@ -56,6 +56,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -313,6 +314,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Database
