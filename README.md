@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0231-power-of-two](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -358,6 +360,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
