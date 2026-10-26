@@ -64,6 +64,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -130,6 +131,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -393,6 +395,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -422,4 +425,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
