@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -229,6 +230,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -255,6 +257,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
