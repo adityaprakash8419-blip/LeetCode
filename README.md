@@ -379,6 +379,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -392,6 +393,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
