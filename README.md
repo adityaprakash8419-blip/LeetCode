@@ -243,6 +243,7 @@
 | [0075-sort-colors](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -386,6 +387,7 @@
 | [0050-powx-n](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -400,6 +402,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -429,6 +432,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
