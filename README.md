@@ -176,6 +176,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -250,6 +251,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -259,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
@@ -437,6 +440,7 @@
 | [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
