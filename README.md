@@ -49,6 +49,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0739-daily-temperatures](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -440,6 +441,7 @@
 | [0032-longest-valid-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -461,4 +463,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
