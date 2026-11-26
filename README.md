@@ -62,6 +62,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -263,6 +264,7 @@
 | ------- | ------- |
 | [0415-add-strings](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
@@ -451,6 +453,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,4 +470,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adityaprakash8419-blip/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
